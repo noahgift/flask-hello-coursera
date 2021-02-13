@@ -6,6 +6,10 @@ Run Flask and test it out
 
 * Open a terminal in Visual Studio Code.
 * cd into the projects directory:  `cd /home/coder/project`
+* install virtualenv:  `python3 -m pip install virtualenv`
+* create a virtualenv: `/home/coder/.local/bin/virtualenv VENV`
+* source the virtualenv (activate it):  `source VENV/bin/activate`
+* cd into the projects directory:  `cd /home/coder/project`
 * source the virtualenv (activate it):  `source VENV/bin/activate`
 * cd into flask project:  `cd /home/coder/project/flask-project`
 * install software:  `make install`
