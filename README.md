@@ -1,5 +1,6 @@
 # flask-hello-coursera
 
+![flask-web-preview](https://user-images.githubusercontent.com/58792/107861108-7ddbfa80-6e11-11eb-906f-127ea68c50c8.png)
 
 Run Flask and test it out
 
